@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+__Welcome to my page__
 ---
 
-I'm glad you are here. I plan to talk about ...
+_This is a sample text to see if the changes to this page are successful._ 🙂
