@@ -1,6 +1,7 @@
 ---
 title: "My Jekyll Page"
 date: 2021-04-19
+---
 
 
 email: your-email@domain.com
@@ -14,4 +15,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
 
----
+
