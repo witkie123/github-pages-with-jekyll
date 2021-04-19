@@ -3,8 +3,6 @@ title: "My Jekyll Page"
 date: 2021-04-19
 ---
 
-title: __My Jekyll Page__
-author: _Kieran Horner_
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a brief description for this basic GitHub page using the minima theme. 
